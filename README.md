@@ -1,28 +1,22 @@
 # Paladares 🍲
-This repository contains information about Paladares – an iPad app made in SwiftUI, using Xcode.<br>
 
-### About
-Paladares was designed and developed to invites you to explore the flavors of the world with your friends. 
-With Paladares, you can cook and explore other recipes. Each recipe includes interesting facts about its origins, details about the ingredients and how many people can enjoy the dish. In addition, the steps are organized so that everyone can participate, making the preparation collaborative and full of fun.<br>
-<br>
-Download Paladares now and embark on a gastronomic journey. Explore, cook, connect and create memories that will last forever.!<br>
-https://lnkd.in/dcn9wYkq<br>
-<br>
+### 🌎 Sobre o aplicativo 
+- Neste repositório, você irá conhecer um pouco mais sobre o aplicativo Paladares – um aplicativo para iPad, criado com Swift e SwiftUI, utilizando o Xcode como IDE.
+- Paladares desenvolvido para convidar você a explorar os sabores do mundo com seus amigos.
+- Com o Paladares, você pode cozinhar e explorar outras receitas. Cada receita inclui curiosidades sobre sua origem, detalhes sobre os ingredientes e quantas pessoas podem apreciá-la. Além disso, o passo a passo é organizado para que todos possam participar, tornando o preparo colaborativo e muito divertido.
+- Desenvolvido em equipe
+- Inclui Dynamic Type, além de ter como idiomas inglês e português
+- 1º app publicado na App Store ❤️
+- <a href="https://apps.apple.com/br/app/paladares/id6737630099"><b>Disponível na App Store!</b></a>
 
-## Tools
+## 🛠️ Ferramentas
+- Swift
+- SwiftUI
+- JSON
 - Xcode
 - Figma
 
-## Development Skills
-- SwiftUI
-- Product Development
-- Project Management
-
-## How to Run
-Prerequisites: You must have an iPhone running iOS 17.6 at least.<br>
-1. Download it at AppStore: https://lnkd.in/dcn9wYkq
-
-## Screenshots
+## 📱 Telas do aplicativo
 <p align="center">
 <img alt="App Icon" width="270" height="250" src="https://github.com/user-attachments/assets/b11ab44f-ea2d-4ca2-b7a1-ca82ad265d7c"></p>
 <br>
@@ -34,7 +28,7 @@ Prerequisites: You must have an iPhone running iOS 17.6 at least.<br>
 <img alt="Project Image 5" width="600" height="430" src="https://github.com/user-attachments/assets/c34981c5-d58f-4af9-add9-fc2ac1e8fa48"></p>
 <br>
 
-## Authors
-Amanda dos Santos Rabelo<br>
-Taynara Vieira Nascimento<br>
-Thales Araújo<br>
+## 🤝 Equipe de Desenvolvimento
+- Amanda Rabelo (dev)
+- Thales Araújo (dev)
+- Taynara Nascimento (designer)
