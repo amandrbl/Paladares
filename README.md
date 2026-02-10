@@ -1,6 +1,6 @@
 # Paladares 🍲
 
-### 🌎 Sobre o aplicativo 
+## 🌎 Sobre o aplicativo 
 - Neste repositório, você irá conhecer um pouco mais sobre o aplicativo Paladares – um aplicativo para iPad, criado com Swift e SwiftUI, utilizando o Xcode como IDE.
 - Paladares desenvolvido para convidar você a explorar os sabores do mundo com seus amigos.
 - Com o Paladares, você pode cozinhar e explorar outras receitas. Cada receita inclui curiosidades sobre sua origem, detalhes sobre os ingredientes e quantas pessoas podem apreciá-la. Além disso, o passo a passo é organizado para que todos possam participar, tornando o preparo colaborativo e muito divertido.
